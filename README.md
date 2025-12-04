@@ -5,25 +5,25 @@ These APIs demonstrate core concepts of backend development, endpoints, request 
 
 📌 Included APIs
 
-✔ Random Joke API
-
-✔ Word Counter API
+✔ Color Name Finder API
 
 ✔ Currency Symbol Finder API
-
-✔ Unit Converter API
-
-✔ Temperature Converter API
-
-✔ Random Password Generator API
 
 ✔ Discount Calculator API
 
 ✔ Even/Odd Checker API
 
-✔ Color Name Finder API
+✔ Random Joke API
 
-✔ Prime / Number Utilities (if included)
+✔ Random Password Generator API
+
+✔  Prime Number Check API
+
+✔ Temperature Converter API 
+
+✔ Unit Converter API 
+
+✔ Word Counter API 
 
 🛠 Technologies Used
 
